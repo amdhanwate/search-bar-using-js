@@ -48,3 +48,14 @@ input {
 .noItemsText {
     display: none;
 }
+
+footer {
+    position: absolute;
+    bottom: 10px;
+}
+
+footer p {
+    position: relative;
+    left: 50%;
+    text-align: center;
+}
